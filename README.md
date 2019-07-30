@@ -6,14 +6,18 @@ My name Maria-Theresa and I am 16 years old. I'm going in the 10th grade at the 
 [Some Projects](./Some of my projects.md)
 
 ### Some Pictures:
+
 <img src="https://news.embl.de/wp-content/uploads/2018/11/IMG_7611-e1543226950675.jpg" width=500>
+
+*EMBL Researchers Night, Image source: https://news.embl.de/events/ern2018/*
+
+<img src="https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg">
 
 *EMBL Researchers Night, Image source: https://news.embl.de/events/ern2018/*
 
 <img src="https://master-mint.de/wp-content/uploads/2019/04/USA_2018_06.jpg" width=600>
 
 *Stanford expedition Silicon Valley, Image source: https://master-mint.de/usa-2018/#1556597887405-16cca501-3440d4b9-6fd7*
-
 ### EMBL Teen Project
 
 *From August to September, the 'Friends of EMBL' department is running a small project with EMBL female researchers and girls from the EMBL Teens, an EMBL club for high school students interested in life sciences. Each girl has been paired with a women researcher at EMBL where they will take a mentorship roles as a mentee and mentor. The EMBL researcher will introduce their mentees to their research work, their life as a scientist and a few important skills that have been useful for them. As part of the European Researchers’ Night that will take place at EMBL on 27 September 2019, an exhibition will be organised to show their work in the form of visual display, video or presentation.*
