@@ -5,7 +5,7 @@ My name Maria-Theresa and I am 16 years old. I'm going in the 10th grade at the 
 
 [Some Projects](./Some of my projects.md)
 
-### Some Pictures:
+### Pictures:
 ![EMBL Researchers Night](https://news.embl.de/events/ern2018/)
 ![Stanford](https://master-mint.de/usa-2018/#1556597887405-16cca501-3440d4b9-6fd7)
 
