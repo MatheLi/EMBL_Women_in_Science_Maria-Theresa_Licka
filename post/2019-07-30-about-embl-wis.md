@@ -1,3 +1,3 @@
-Aabout EMBL Women in Science Project
+About EMBL Women in Science Project
 
 ![](./../images/embl_wis.jpeg)
