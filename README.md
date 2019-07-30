@@ -1,1 +1,1 @@
-[Some Projects](./Some Projects.md)
+[Some Projects](./Some of my projects.md)
