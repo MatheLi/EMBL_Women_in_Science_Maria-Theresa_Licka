@@ -1,4 +1,5 @@
 ## Some of my Projects:
+
 * 2009-2013, [Ecole Pierre et Marie Curie](https://ecole.de/fr/)
 * Projects with [Master MINT](https://master-mint.de) and [Tschira Jugendakademie](https://www.tschira-jugendakademie.info)
 * Participation at Talent Schools like [JAM](http://www.jugendakademie-mannheim.de), [AIM](https://www.aim-akademie.org/unser-programm/individuelle-bildung-und-erziehung/unsere-angebote/juniorakademie.html) and [Fraunhofer Talent School](https://www.fraunhofer.de/de/jobs-und-karriere/schueler/Nachwuchsprogramme/talent-schools.html)
