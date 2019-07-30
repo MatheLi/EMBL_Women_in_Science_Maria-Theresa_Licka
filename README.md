@@ -11,11 +11,11 @@ My name Maria-Theresa and I am 16 years old. I'm going in the 10th grade at the 
 
 *EMBL Researchers Night, Image source: https://news.embl.de/events/ern2018/*
 
-<img src="https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg" width=500 alt="Computer Hope">
+![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg)
 
 *EMBL Researchers Night, Image source: https://news.embl.de/events/ern2018/*
 
-<img src="https://master-mint.de/wp-content/uploads/2019/04/USA_2018_06.jpg" width=500 >
+![](https://master-mint.de/wp-content/uploads/2019/04/USA_2018_06.jpg)
 
 *Stanford expedition Silicon Valley, Image source: https://master-mint.de/usa-2018/#1556597887405-16cca501-3440d4b9-6fd7*
 ### EMBL Teen Project
