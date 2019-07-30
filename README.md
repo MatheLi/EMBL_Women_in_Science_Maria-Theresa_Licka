@@ -26,4 +26,4 @@ This page will summarise the work of Maria-Theresa - an EMBL teen, who is learni
 
 #### Learn more:
 
-[About EMBL Teen](https://www.embl.de/leben/friends/en#embl-teens) | [About the Mentor](https://about.me/malvikasharan) | [About the Mentee](https://matheli.github.io/Matheli/) | [About my EMBL Teens project](./posts/2019-07-30-about-embl-wis.md)
+[About EMBL Teen](https://www.embl.de/leben/friends/en#embl-teens) | [About the Mentor](https://about.me/malvikasharan) | [About the Mentee](https://matheli.github.io/Matheli/) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md)
