@@ -24,6 +24,6 @@ My name Maria-Theresa and I am 16 years old. I'm going in the 10th grade at the 
 
 This page will summarise the work of Maria-Theresa - an EMBL teen, who is learning about computational biology, data analysis, and artificial intelligence in her spare time, and Malvika Sharan - a computational biologist and community outreach coordinator at EMBL, who shares the interests of Maria-Theresa.
 
-#### Learn more about:
+#### Learn more:
 
 [About EMBL Teen](https://www.embl.de/leben/friends/en#embl-teens) | [About the Mentor](https://about.me/malvikasharan) | [About the Mentee](https://matheli.github.io/Matheli/) | [About my EMBL Teens project](./posts/2019-07-30-about-embl-wis.md)
