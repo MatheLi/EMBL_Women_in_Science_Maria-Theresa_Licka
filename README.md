@@ -3,7 +3,7 @@
 
 My name Maria-Theresa and I am 16 years old. I'm going in the 10th grade at the Elisabeth von Thadden School. I was always fascinated by MINT, so I started to do little MINT projects very early. Now as I am getting older I am more and more interested in Informatics, especially in AI and machine learning. But I also like medicine and biology. In my free time I played since I was 7 years old tennis but now I am focussing more on golf, which I play now since 2015. I also play piano for more or less 9 years.
 
-[Some Projects](./Some of my projects.md)
+[My Projects](./post/2019-07-30-my-projects.md.md)
 
 ### Some Pictures:
 
