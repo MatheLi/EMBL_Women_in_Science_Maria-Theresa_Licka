@@ -31,9 +31,9 @@ I am a part of EMBL Teens club at the [European Molecular Biology Laboratory (EM
 
 *EMBL Teens participated at the EMBL Researcher's night, IMAGE: Patrick Müller / EMBL ([full article](https://news.embl.de/events/ern2018/)*
 
-I had an opportunity to attend the EMBL Researcher's night last year as EMBL Teen Reporter, and was featured in [this article](https://news.embl.de/events/ern2018/).
+I had an opportunity to attend the EMBL Researcher's night last year as EMBL Teen Reporter, which was featured in [this article](https://news.embl.de/events/ern2018/).
 
-This year, I am participating in a project called **Women in Science: Courage to Succeed**.
+This year I am participating in a project called **Women in Science: Courage to Succeed**.
 
 From July to September, the 'Friends of EMBL' department is running this project with EMBL female researchers and girls from the EMBL Teens club. A few girls from EMBL teen, including me, has been paired with a women researcher at EMBL where we will take mentorship roles of mentees and mentors. The EMBL researchers will introduce us to their research work, their life as a scientist and a few important skills that have been useful for them. 
 
