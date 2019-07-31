@@ -8,7 +8,7 @@ In my free time, I play sports. I have been playing tennis since I was 7 years o
 
 I also love to play piano, which I have been learning for more then 9 years.
 
-Check out [my Projects](./post/2019-07-30-my-projects.md)!
+**Check out [my Projects](./post/2019-07-30-my-projects.md)!**
 
 ## Gallery
 
@@ -44,4 +44,4 @@ I will attend the European Researchers’ Night taking place at EMBL on 27 Septe
 
 #### Learn more:
 
-[About EMBL Teen](https://www.embl.de/leben/friends/en) | [About the Mentor](https://about.me/malvikasharan) | [About the Mentee](https://matheli.github.io/Matheli/) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md)
+[About EMBL Teen](https://www.embl.de/leben/friends/en) | [About my Mentor](https://about.me/malvikasharan) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md)
