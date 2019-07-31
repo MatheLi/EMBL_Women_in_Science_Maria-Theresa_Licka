@@ -14,7 +14,7 @@ Check out [my Projects](./post/2019-07-30-my-projects.md)!
 
 ![](https://master-mint.de/wp-content/uploads/2019/04/USA_2018_06.jpg)
 
-*Stanford expedition Silicon Valley, Image source: https://master-mint.de/usa-2018/#1556597887405-16cca501-3440d4b9-6fd7*
+*Stanford expedition Silicon Valley, Image source: https://master-mint.de/usa-2018*
 
 
 ![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg)
