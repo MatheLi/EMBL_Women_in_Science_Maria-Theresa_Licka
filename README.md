@@ -10,31 +10,37 @@ I also love to play piano, which I have been learning for more then 9 years.
 
 Check out [my Projects](./post/2019-07-30-my-projects.md)!
 
-### Gallary:
-
-![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7611-e1543226950675.jpg)
-
-*EMBL Researchers Night, Image source: https://news.embl.de/events/ern2018/*
-
-![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg)
-
-*EMBL Researchers Night, Image source: https://news.embl.de/events/ern2018/*
+## Gallery
 
 ![](https://master-mint.de/wp-content/uploads/2019/04/USA_2018_06.jpg)
 
 *Stanford expedition Silicon Valley, Image source: https://master-mint.de/usa-2018/#1556597887405-16cca501-3440d4b9-6fd7*
 
-### EMBL Teen Project
+
+![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7591-768x576.jpg)
+
+*EMBL Researchers Night 2018, Image source: https://news.embl.de/events/ern2018/*
+
+### EMBL Teens Project
 
 I am a part of EMBL Teens club at the [European Molecular Biology Laboratory (EMBL)](https://www.embl.de/), Heidelberg. *EMBL is Europe’s flagship laboratory for the life sciences.*
 
 > "EMBL Teens is a club for the high school students interested in life sciences, where they get the chance to look at scientific research from a different angle, just in exchange for their passion and their interest!"
 
-From July to September, the 'Friends of EMBL' department is running a project with EMBL female researchers and girls from the EMBL Teens club. A few girls from EMBL teen, including me, has been paired with a women researcher at EMBL where we will take mentorship roles of mentees and mentors. The EMBL researchers will introduce us to their research work, their life as a scientist and a few important skills that have been useful for them. 
+![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7611-e1543226950675.jpg)
 
-As part of this project, I will attend the European Researchers’ Night taking place at EMBL on 27 September 2019. An exhibition will be organised to show our work together in the form of visual display, video or presentation.
+*EMBL Teens participated in at the EMBL Researcher's night, IMAGE: Patrick Müller / EMBL ([full article](https://news.embl.de/events/ern2018/)*
 
-This page will summarise my work as an EMBL teen, my interests in computational biology, data analysis, and artificial intelligence, and Malvika Sharan - a computational biologist and community outreach coordinator at EMBL, who shares my interests and will share a few days of her work with me at EMBL.
+As a part of this club, I attended the EMBL Researcher's night last year as EMBL Teen Reporter/. You can read [this article](https://news.embl.de/events/ern2018/) for more details.
+
+This year, I am participating in a project called **Women in Science: Courage to Succeed**.
+
+From July to September, the 'Friends of EMBL' department is running this project with EMBL female researchers and girls from the EMBL Teens club. A few girls from EMBL teen, including me, has been paired with a women researcher at EMBL where we will take mentorship roles of mentees and mentors. The EMBL researchers will introduce us to their research work, their life as a scientist and a few important skills that have been useful for them. 
+
+I will exchange my interests in computational biology, data analysis, and artificial intelligence, with Dr. Malvika Sharan - a computational biologist and community outreach coordinator at EMBL. I will spend a few days with her at EMBL, getting to know her work, and learning about careers in academia from a woman's perspective. 
+
+I will attend the European Researchers’ Night taking place at EMBL on 27 September 2019 and participate at an exhibition by sharing our work together in the form of visual display, video or presentation.
+
 
 #### Learn more:
 
