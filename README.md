@@ -8,7 +8,7 @@ In my free time, I play sports. I have been playing tennis since I was 7 years o
 
 I also love to play piano, which I have been learning for more then 9 years.
 
-| **Check out [my Projects](./post/2019-07-30-my-projects.md)!** |
+| **[Check Out My Projects](./post/2019-07-30-my-projects.md)!** |
 
 ## Gallery
 
@@ -23,9 +23,9 @@ I also love to play piano, which I have been learning for more then 9 years.
 
 ### EMBL Teens Project
 
-I am a part of EMBL Teens club at the [European Molecular Biology Laboratory (EMBL)](https://www.embl.de/), Heidelberg. *EMBL is Europe’s flagship laboratory for the life sciences.*
+I am a part of EMBL Teens club at the [European Molecular Biology Laboratory (EMBL)](https://www.embl.de/), Heidelberg. EMBL is Europe’s flagship laboratory for the life sciences. 
 
-> "EMBL Teens is a club for the high school students interested in life sciences, where they get the chance to look at scientific research from a different angle, just in exchange for their passion and their interest!"
+> EMBL Teens is a club run by *Friends of EMBL* for the high school students interested in life sciences. As members, we get the chance to look at scientific research from a different angle, in exchange for our passion and interest."
 
 ![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7611-e1543226950675.jpg)
 
