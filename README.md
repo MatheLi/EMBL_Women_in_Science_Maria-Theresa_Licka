@@ -28,7 +28,7 @@ Check out [my Projects](./post/2019-07-30-my-projects.md)!
 
 I am a part of EMBL Teens club at the [European Molecular Biology Laboratory (EMBL)](https://www.embl.de/), Heidelberg. *EMBL is Europe’s flagship laboratory for the life sciences.*
 
-> "EMBL Teens (a club fpr the high school students interested in life sciences) get the chance to look at science from a different angle, just in exchange for their passion and their interest!"
+> "EMBL Teens is a club for the high school students interested in life sciences, where they get the chance to look at scientific research from a different angle, just in exchange for their passion and their interest!"
 
 From July to September, the 'Friends of EMBL' department is running a project with EMBL female researchers and girls from the EMBL Teens club. A few girls from EMBL teen, including me, has been paired with a women researcher at EMBL where we will take mentorship roles of mentees and mentors. The EMBL researchers will introduce us to their research work, their life as a scientist and a few important skills that have been useful for them. 
 
