@@ -1,4 +1,4 @@
-## Project Timeline:
+## My Projects:
 
 * 2016 - Present [CyberMentor](https://www.cybermentor.de)
 * 2018- Present, EMBL-Teens
