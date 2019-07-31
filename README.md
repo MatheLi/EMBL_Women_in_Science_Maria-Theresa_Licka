@@ -39,7 +39,7 @@ From July to September, the 'Friends of EMBL' department is running this project
 
 I will exchange my interests in computational biology, data analysis, and artificial intelligence, with Dr. Malvika Sharan - a computational biologist and community outreach coordinator at EMBL. I will spend a few days with her at EMBL, getting to know her work, and learning about careers in academia from a woman's perspective. 
 
-I will attend the European Researchers’ Night taking place at EMBL on 27 September 2019 and participate at an exhibition by sharing our work together in the form of visual display, video or presentation.
+I will attend the European Researchers’ Night taking place at EMBL on 27 September 2019 and participate in an exhibition by sharing the outcome of my project in the form of visual display, video or presentation.
 
 
 #### Learn more:
