@@ -1,7 +1,7 @@
 ## My Projects:
 
 * 2016 - Present [CyberMentor](https://www.cybermentor.de)
-* 2018- Present, EMBL-Teens
+* 2018- Present, [Friends of EMBL membership at EMBL Teens](https://www.embl.de/leben/friends/en)
   - 2019: EMBL Women in Science: Courage to Succeed
   - 2018: EMBL Teen Reporter at the Researcher's Night 2018
 * 2019, [Bundeswettbewerb Künstliche Intelligenz](https://bw-ki.de)
