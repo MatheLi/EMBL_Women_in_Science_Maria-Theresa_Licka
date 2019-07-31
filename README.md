@@ -29,7 +29,7 @@ I am a part of EMBL Teens club at the [European Molecular Biology Laboratory (EM
 
 ![](https://news.embl.de/wp-content/uploads/2018/11/IMG_7611-e1543226950675.jpg)
 
-*EMBL Teens participated in at the EMBL Researcher's night, IMAGE: Patrick Müller / EMBL ([full article](https://news.embl.de/events/ern2018/)*
+*EMBL Teens participated at the EMBL Researcher's night, IMAGE: Patrick Müller / EMBL ([full article](https://news.embl.de/events/ern2018/)*
 
 As a part of this club, I attended the EMBL Researcher's night last year as EMBL Teen Reporter/. You can read [this article](https://news.embl.de/events/ern2018/) for more details.
 
