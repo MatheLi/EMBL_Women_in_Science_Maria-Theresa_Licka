@@ -44,4 +44,4 @@ I will attend the European Researchers’ Night taking place at EMBL on 27 Septe
 
 #### Learn more:
 
-[About EMBL Teen](https://www.embl.de/leben/friends/en) | [About my Mentor](https://about.me/malvikasharan) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md)
+| [About EMBL Teens](https://www.embl.de/leben/friends/en) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md) | [About my Mentor](https://about.me/malvikasharan) | 
