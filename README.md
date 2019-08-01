@@ -35,7 +35,7 @@ I had an opportunity to attend the EMBL Researcher's night last year as EMBL Tee
 
 This year I am participating in a project called **Women in Science: Courage to Succeed**.
 
-From July to September, the 'Friends of EMBL' department is running this project with EMBL female researchers and girls from the EMBL Teens club. A few girls from EMBL Teens, including me, are paired with a woman researcher at EMBL where we will take mentorship roles of mentees and mentors. The EMBL researchers will introduce us to their research work, tell us about their life as a scientist and share a few important skills that have been useful for them. 
+From July to September, the 'Friends of EMBL' department is running this project with the EMBL Teens club. A few girls from EMBL Teens, including me, are paired with a woman researcher at EMBL where we will take mentorship roles of mentees and mentors. The EMBL researchers will introduce us to their research work, tell us about their life as a scientist and share a few important skills that have been useful for them. 
 
 I will exchange my interests in computational biology, data analysis, and artificial intelligence, with Dr. Malvika Sharan - a computational biologist and community outreach coordinator at EMBL. I will spend a few days with her at EMBL, getting to know her work, and learning about careers in academia from a woman's perspective. 
 
@@ -44,4 +44,4 @@ I will attend the European Researchers’ Night taking place at EMBL on 27 Septe
 
 #### Learn more:
 
-| [About EMBL Teens](https://www.embl.de/leben/friends/en) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md) | [About my Mentor](https://about.me/malvikasharan) | 
+| [About EMBL Teens](https://www.embl.de/leben/friends/en) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md) | [About my Mentor](https://about.me/malvikasharan) | [This project from her perspective](https://malvikasharan.github.io/EMBL-Teen-2019/) |
