@@ -42,6 +42,6 @@ I will exchange my interests in computational biology, data analysis, and artifi
 I will attend the European Researchers’ Night taking place at EMBL on 27 September 2019 and participate in an exhibition by sharing the outcome of my project in the form of visual display, video or presentation.
 
 
-#### Learn more:
+#### Learn more about:
 
-| [About EMBL Teens](https://www.embl.de/leben/friends/en) | [About my EMBL Teens project](./post/2019-07-30-about-embl-wis.md) | [About my Mentor](https://about.me/malvikasharan) | [This project from her perspective](https://malvikasharan.github.io/EMBL-Teen-2019/) |
+| [EMBL Teens](https://www.embl.de/leben/friends/en) | [my EMBL Teens project](./post/2019-07-30-about-embl-wis.md) | [My Mentor](https://about.me/malvikasharan) | [Mentor's Perspective](https://malvikasharan.github.io/EMBL-Teen-2019/) |
