@@ -3,7 +3,7 @@
 * 2016 - Present [CyberMentor](https://www.cybermentor.de)
 * 2018- Present, [Friends of EMBL membership at EMBL Teens](https://www.embl.de/leben/friends/en)
   - 2019: EMBL Women in Science: Courage to Succeed
-  - 2018: EMBL Teen Reporter at the Researcher's Night 2018
+  - 2018: [EMBL Teen Reporter at the Researcher's Night 2018](https://news.embl.de/events/ern2018/)
 * 2019, [Bundeswettbewerb Künstliche Intelligenz](https://bw-ki.de)
 * 2019, [Fraunhofer Talent School](https://www.fraunhofer.de/de/jobs-und-karriere/schueler/Nachwuchsprogramme/talent-schools.html) and [Zukunftsakademie Baden-Württemberg](https://www.bwstiftung.de/zukunftsakademie-bw/)
 * November 2018, [EMBL Reporter at the Researchers Night 2018](https://news.embl.de/events/ern2018/)
