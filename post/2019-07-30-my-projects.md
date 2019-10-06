@@ -14,4 +14,4 @@
 * Projects with [Master MINT](https://master-mint.de) and [Tschira Jugendakademie](https://www.tschira-jugendakademie.info)
 * 2009-2013, [Ecole Pierre et Marie Curie](https://ecole.de/fr/)
 
-|                      <img src="https://www.bilder-upload.eu/upload/9e703e-1570390518.jpg" width="300">                         |
+<img src="https://www.bilder-upload.eu/upload/9e703e-1570390518.jpg" width="300">
